@@ -1,2 +1,3 @@
-rootProject.name = "ParapenteTracker"
-include ':app'
+<resources>
+    <string name="app_name">Parapente Tracker</string>
+</resources>
